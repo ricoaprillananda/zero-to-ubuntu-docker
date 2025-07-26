@@ -36,7 +36,7 @@ Ideal for sandbox testing, fast prototyping, or container bootstrapping.
 
 - 🗒️ Sandboxed Linux playground — safely test bash scripts, configs, or tools
 
-- 🔄 Clean every launch — no system clutter, no long-term impact
+- 🦕 Clean every launch — no system clutter, no long-term impact
 
 - 🏃🏻‍♂️ Fast onboarding — perfect for students, bootcamps, or tech demos
 
